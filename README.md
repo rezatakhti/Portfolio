@@ -1,4 +1,11 @@
 # Portfolio
+ 
+  
+   
+    
+     
+      
+       
 
 
 
@@ -23,6 +30,15 @@ Bookie is an app that allows you to track each time you read, so you can track b
 
 
 
+
+
+
+ 
+   
+    
+     
+      
+       
 
 ## CryptoTracker
 
