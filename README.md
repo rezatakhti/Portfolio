@@ -2,6 +2,9 @@
 
 
 
+
+
+
 ## Bookie - Session Tracker 
 ### On the [App Store](https://apps.apple.com/us/app/bookie-session-tracker/id1493326511?ls=1)
 
@@ -15,6 +18,11 @@ Bookie is an app that allows you to track each time you read, so you can track b
 * Passing data between view controllers using Delegates and Protocols 
 * Creating custom view by subclassing existing UIKit classes
 * Constraints using Autolayout and NSLayoutAnchor
+
+
+
+
+
 
 ## CryptoTracker
 
